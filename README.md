@@ -14,4 +14,4 @@ $ otltool -s 0823 -e 1737 -x 67
 ### Options
 `-s` Start time (format: HHMM, required)  
 `-e` End time (format: HHMM, required)  
-`-x` Exclude time in minutes (defaults to 75) otl
+`-x` Exclude time in minutes (defaults to 75)
