@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var options = {
   'string': ['s', 'e']
 }
