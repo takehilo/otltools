@@ -1,5 +1,5 @@
 {
-  "name": "otl",
+  "name": "otltool",
   "version": "0.1.0",
   "description": "A simple command-line otl tool",
   "main": "index.js",

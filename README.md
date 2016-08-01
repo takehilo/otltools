@@ -1,13 +1,13 @@
-# otl
+# otltool
 
 ## Install
 ```
-$ npm install otl -g
+$ npm install otltool -g
 ```
 
 ## Usage
 ```
-$ otl -s 0823 -e 1737 -x 67
+$ otltool -s 0823 -e 1737 -x 67
 8.12
 ```
 
