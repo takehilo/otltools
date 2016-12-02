@@ -1,6 +1,6 @@
 {
   "name": "otltool",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "A simple command-line otl tool",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,7 @@
     "cli",
     "command"
   ],
-  "author": "tktk8924 <myphone.tk@gmail.com>",
+  "author": "takehilo <takehilo.kaneko@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "minimist": "^1.2.0"
